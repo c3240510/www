@@ -1,0 +1,63 @@
+body {
+
+  background-color: #f0f8ff;
+
+  font-family: Arial, sans-serif;
+
+  padding: 20px;
+
+}
+ 
+h1 {
+
+  color: #32CD32; /* green */
+
+}
+ 
+h2 {
+
+  color: #1E90FF; /* blue */
+
+}
+ 
+h3 {
+
+  font-weight: bold;
+
+}
+ 
+a {
+
+  color: red;
+
+  text-decoration: none;
+
+}
+ 
+a:hover {
+
+  text-decoration: underline;
+
+}
+ 
+table {
+
+  border-collapse: collapse;
+
+  width: 400px;
+
+  margin-top: 10px;
+
+}
+ 
+th, td {
+
+  border: 1px solid #ccc;
+
+  padding: 10px;
+
+  text-align: left;
+
+}
+
+ 
